@@ -1,7 +1,3 @@
-# Clean Unity Project Export
-
-This project was automatically cleaned and exported using Clean Project Exporter.
-
 ## Included Scenes
 - menu
 - Level1
