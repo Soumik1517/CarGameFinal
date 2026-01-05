@@ -34,3 +34,8 @@ Predictive Slowdown: It calculates the angleToTarget, and then a power function 
 Stuck Detection: This is a recovery system that dutifully watches for minDistanceMoved to auto-respawn the AI if it gets stuck.
 (The project is a bit badly structured please forgive me for that)
 
+Video of a few second of gameplay:
+
+
+https://github.com/user-attachments/assets/d3df20c8-439a-4db2-8436-a58efd683181
+
